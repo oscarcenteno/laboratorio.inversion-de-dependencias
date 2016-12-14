@@ -3,3 +3,9 @@
 ################################################################################
 
 /Laboratorio.Dip.Negocio/bin/Debug
+/Laboratorio.Dip.Negocio/obj/Debug
+/Laboratorio.Dip.Negocio.UnitTests/bin/Debug
+/Laboratorio.Dip.Negocio.UnitTests/obj/Debug
+/TestResults/fa2c8740-e0a9-4adc-a0c9-286074dfbdbf
+*.user
+/.vs/inversion-de-dependencias/v14

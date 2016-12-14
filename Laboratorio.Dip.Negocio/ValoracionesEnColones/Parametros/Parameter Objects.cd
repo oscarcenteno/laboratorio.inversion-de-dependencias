@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laboratorio.Dip.Negocio.ValoracionesEnColones.DatosDelISINEnColones">
+    <Position X="5" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQEAAAAQABAAAAAAAIAAAAAAAAAAAAAAgAQ=</HashCode>
+      <FileName>ValoracionesEnColones\Parameter Objects\DatosDelISINEnColones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
